@@ -7,5 +7,12 @@
 ---
 - Contents
     + **CH1**: `numpy`와 `pandas` 기초
+    + **CH2**: Regression Problem
+    + **CH3**: Classification Problem
+    + **CH4**: Neural Network Basic
+    + **CH5**: Convolutional Neural Network(CNN) 
+    + **CH6**: Recurrent Neural Network(RNN)
+    + **ETC**: Other Method
+    
 
 ---

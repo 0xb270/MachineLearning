@@ -4,6 +4,7 @@
 
 구현된 언어는 **Python**이고, 기초 개념은 `numpy` 위주의 선형 대수 개념을 포함하였으며, 이를 마지막 부분에서는 `Tensorflow`로 쉽게 적용해볼 수 있도록 해볼 것입니다. 
 
+[노트북 뷰어](http://nbviewer.jupyter.org/github/0xb270/MachineLearning/tree/master/)로 보면 깔끔!
 ---
 - Contents
     + **CH1**: `numpy`와 `pandas` 기초
@@ -13,6 +14,9 @@
     + **CH5**: Convolutional Neural Network(CNN) 
     + **CH6**: Recurrent Neural Network(RNN)
     + **ETC**: Other Method
-    
-
 ---
+
+## 향후 계획
+
+- 파이썬 클래스로 모듈화
+- 문서 내용 다듬기

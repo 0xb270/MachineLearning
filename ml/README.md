@@ -14,6 +14,7 @@
     + **CH5**: Convolutional Neural Network(CNN) 
     + **CH6**: Recurrent Neural Network(RNN)
     + **ETC**: Other Method
+        + [베이지안 ](http://nbviewer.jupyter.org/github/0xb270/MachineLearning/blob/master/ml/%5BML%5DETC_Bayesian_Basic.ipynb)
 ---
 
 ## 향후 계획
